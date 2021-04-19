@@ -1,3 +1,26 @@
+Obiectele (8 obiecte si clase factory care nu stiu daca se pun ca si obiecte):
+    -Cont
+    --Cont de economii
+    -Card
+    --Visa
+    --Mastercard
+    -Tranzactie
+    --Client
+    --Adresa client
+Actiuni (10 actiuni):
+    -Creare client
+    -Creare cont normal
+    -Creare card
+    -Creare cont de economii
+    -Inchidere cont
+    -Creare tranzactie
+    -Afisare toate tranzactiile unui client
+    -Afisare conturi pentru o persoana
+    -Afisare date persoana
+    -Depozitare suma in cont
+    -Afisare sold total client
+
+
 Etapa I:
 1. Definirea sistemului: sa se creeze o lista pe baza temei alese cu cel puțin 10 acțiuni/interogări care se pot face în cadrul sistemului și o lista cu cel puțin 8 tipuri de obiecte.
 2. Implementare: sa se implementeze în limbajul Java o aplicație pe baza celor definite la punctul. Aplicația va conține:
